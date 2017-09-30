@@ -14,6 +14,7 @@ Please do NOT edit or remove others' link.
 + [nian](http://neu.whoisnian.com/info.php)
 + [maocaoqiu](http://47.95.214.83/phpinfo.php)
 + [nekokira](http://139.199.3.207/phpinfo.php)
++ [wangwei](http://47.95.215.9/test.php)
 
 **##End of section##**
 
