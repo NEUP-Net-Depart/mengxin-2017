@@ -17,6 +17,7 @@ Please do NOT edit or remove others' link.
 + [cooler](http://123.206.72.58/info.php)
 + [mitsuha](http://123.206.72.58/info.php)
 + [BlockChanZJ](http://139.199.7.202)
++ [wanghaiwei](http://47.95.210.148/phpinfo.php)
 
 **##End of section##**
 
