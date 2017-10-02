@@ -19,6 +19,7 @@ Please do NOT edit or remove others' link.
 + [BlockChanZJ](http://139.199.7.202)
 + [mikoto](http://123.206.72.58/info.php)
 + [wanghaiwei](http://http://47.95.210.148/phpinfo.php)
++ [kuroko](http://123.206.72.58/info.php)
 
 **##End of section##**
 
