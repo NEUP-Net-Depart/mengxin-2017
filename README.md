@@ -25,6 +25,7 @@ Please do NOT edit or remove others' link.
 + [wangwei](http://47.95.215.9/test.php)
 + [yufeiran](http://47.95.212.101/phpinfo.php)
 + [wangkule](http://123.206.72.58/info.php)
++ [haruka](http://123.206.72.58/info.php)
 
 
 **##End of section##**
