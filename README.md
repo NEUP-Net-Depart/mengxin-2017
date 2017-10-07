@@ -27,6 +27,7 @@ Please do NOT edit or remove others' link.
 + [wangkule](http://123.206.72.58/info.php)
 + [haruka](http://123.206.72.58/info.php)
 + [jingyongkang](http://111.231.116.48/phpinfo.php)
++ [Criinal](http://122.152.207.47/criinal.php)
 
 
 
