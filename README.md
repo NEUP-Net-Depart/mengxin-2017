@@ -29,7 +29,10 @@ Please do NOT edit or remove others' link.
 + [jingyongkang](http://111.231.116.48/phpinfo.php)
 + [hoshino](http://123.206.72.58/info.php)
 + [renxihang](http://139.199.61.43/index.php)
-
++ [Criinal](http://122.152.207.47/criinal.php)
++ [nanami](http://123.206.72.58/info.php)
++ [caokaifeng](http://118.89.40.65/index.php)
++ [qiurungeng](http://119.29.109.18/info.php)
 
 **##End of section##**
 
