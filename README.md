@@ -1,5 +1,4 @@
-+
-+﻿# NEUP-Net-Department 2017 Mengxin Plan (I)
+# NEUP-Net-Department 2017 Mengxin Plan (I)
 
 Please add the link of your website to the bottom of the list, and then start a pull request.
 
@@ -15,27 +14,23 @@ Please do NOT edit or remove others' link.
 + [nian](http://neu.whoisnian.com/info.php)
 + [maocaoqiu](http://47.95.214.83/phpinfo.php)
 + [nekokira](http://139.199.3.207/phpinfo.php)
-+ [cooler](http://123.206.72.58/info.php)
 + [luotingzhongL2](http://116.196.95.34/phpinfo.php)
-+ [yotsuha](http://123.206.72.58/info.php)
-+ [mitsuha](http://123.206.72.58/info.php)
 + [BlockChanZJ](http://139.199.7.202)
-+ [mikoto](http://123.206.72.58/info.php)
-+ [kuroko](http://123.206.72.58/info.php)
 + [wanghaiwei](http://47.95.210.148/phpinfo.php)
 + [wangwei](http://47.95.215.9/test.php)
 + [yufeiran](http://47.95.212.101/phpinfo.php)
-+ [wangkule](http://123.206.72.58/info.php)
-+ [haruka](http://123.206.72.58/info.php)
 + [jingyongkang](http://111.231.116.48/phpinfo.php)
-+ [hoshino](http://123.206.72.58/info.php)
 + [Criinal](http://122.152.207.47/criinal.php)
-+ [nanami](http://123.206.72.58/info.php)
 + [caokaifeng](http://118.89.40.65/index.php)
++ [black-white bear](http://47.95.117.192/info.php)
 + [qiurungeng](http://119.29.109.18/info.php)
 + [ZOHETH](http://47.93.35.38/phpinfo.php)
 + [gngnggnn1](http://116.196.101.11/info.php)
++ [yunqi](http://47.95.232.25/phpinfo.php)
++ [renxihang](http://139.199.61.43/index.php)
++ [Xiachenghao](http://39.106.61.29/info.php)
 + [tianpeiju](http://47.94.230.126/phpinfo.php)
+
 **##End of section##**
 
 ## 任务描述
